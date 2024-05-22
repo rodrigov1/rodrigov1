@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **rodrigov1/rodrigov1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,10 +20,10 @@ Here are some ideas to get you started:
         </a>
     </div>
     <img src="https://komarev.com/ghpvc/?username=rodrigov1&style=flat-square&color=blue" alt=""/>
-    <h1>
+    <h2>
         hey there
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    </h1>
+    </h2>
 </div>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigov1&show_icons=true&theme=material-palenight&locale=en&layout=compact" alt="rodrigov1" /></p> -->
@@ -36,17 +34,11 @@ Here are some ideas to get you started:
 
 Hi there, I'm Rodrigo!
 
-I'm a senior computer engineering student, throghout my career I've been working both in low-level software development with C and Assembler (LPC1769 / PIC16F887) as well as high-level development with Java and C++. Lately I've been experimenting with Full Stack development, and I'm currently working on a project that will be a full stack application in the next few months.
+I'm a senior computer engineering student, throghout my career I've been working both in low-level software development with C and Assembler (LPC1769 / PIC16F887) as well as high-level development with Java and C++.
 
 - 🎓 Senior computer engineering student @ FCEFyN, UNC
 - 🏠 Córdoba capital @ Argentina
 - 📬 Feel free to contact me via e-mail: rodrigov.private@gmail.com
-
-## Things i'm working on 🚧
-
-- Getting my degree in computer engineering at @FCEFyN, UNC.
-- Choosing the subject for my thesis.
-- Pronostiquito Full-Stack project
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -55,18 +47,17 @@ I'm a senior computer engineering student, throghout my career I've been working
     <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="Neovim" alt="Neovim" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original-wordmark.svg" title="Neovim" alt="Neovim" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
-
 </div>
 
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+### Things i'm working on 🚧
+
+- Getting my degree in computer engineering at @FCEFyN, UNC.
+- Choosing the subject for my thesis.
+- Pronostiquito Full-Stack project
