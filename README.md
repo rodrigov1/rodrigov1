@@ -64,4 +64,4 @@ I'm a senior computer engineering student, throghout my career I've been working
 
 ### :fire: My Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=https%3A%2F%2Fgithub.com%2Frodrigov1&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rodrigov1&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
