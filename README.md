@@ -62,6 +62,4 @@ I'm a senior computer engineering student, throghout my career I've been working
 - Choosing the subject for my thesis.
 - Pronostiquito Full-Stack project
 
-### :fire: My Stats:
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rodrigov1&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
