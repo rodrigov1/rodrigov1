@@ -62,4 +62,4 @@ I'm a senior computer engineering student, throghout my career I've been working
 - Choosing the subject for my thesis.
 - Pronostiquito Full-Stack project
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigov1)](https://github.com/anuraghazra/github-readme-stats)
