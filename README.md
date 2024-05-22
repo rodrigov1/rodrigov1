@@ -21,6 +21,11 @@ Here are some ideas to get you started:
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
     </div>
+    <img src="https://komarev.com/ghpvc/?username=rodrigov1&style=flat-square&color=blue" alt=""/>
+    <h1>
+        hey there
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    </h1>
 </div>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigov1&show_icons=true&theme=material-palenight&locale=en&layout=compact" alt="rodrigov1" /></p> -->
@@ -29,25 +34,35 @@ Here are some ideas to get you started:
 
 ## About me
 
+Hi there, I'm Rodrigo!
+
+I'm a senior computer engineering student, throghout my career I've been working both in low-level software development with C and Assembler (LPC1769 / PIC16F887) as well as high-level development with Java and C++. Lately I've been experimenting with Full Stack development, and I'm currently working on a project that will be a full stack application in the next few months.
+
 - 🎓 Senior computer engineering student @ FCEFyN, UNC
 - 🏠 Córdoba capital @ Argentina
 - 📬 Feel free to contact me via e-mail: rodrigov.private@gmail.com
-- 💼️ Reach me on [LinkedIn](https://www.linkedin.com/in/rodrigo-s-vargas/).
 
 ## Things i'm working on 🚧
 
 - Getting my degree in computer engineering at @FCEFyN, UNC.
 - Choosing the subject for my thesis.
-- Pronostiquito full-stack project
+- Pronostiquito Full-Stack project
 
-## Skills
+### :hammer_and_wrench: Languages and Tools :
 
-- GNU Linux
-- Knowledge of relational DBMS (MySQL).
-- C/C++
-- Java (Hibernate)
-- Use of Git and GitHub and CI/CD tools (CircleCI).
-- Knowledge of design patterns and architecture designs.
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original-wordmark.svg" title="Neovim" alt="Neovim" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
+
+</div>
 
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
