@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5kMTg3Z2p3cXZ6d2RjaTh5eGV2M3k1dm1oY2N0MWl6MWl0dmsyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5kMTg3Z2p3cXZ6d2RjaTh5eGV2M3k1dm1oY2N0MWl6MWl0dmsyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" width="200">
+    <div id="badges">
+        <a href="https://www.linkedin.com/in/rodrigo-s-vargas/">
+            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        </a>
+    </div>
 </div>
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/rodrigo-s-vargas/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigov1&show_icons=true&theme=material-palenight&locale=en&layout=compact" alt="rodrigov1" /></p> -->
 <!---->
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigov1&show_icons=true&theme=material-palenight&locale=en" alt="rodrigov1" /></p> -->
