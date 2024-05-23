@@ -18,9 +18,9 @@
 
 ## About me
 
-Hi there, I'm Rodrigo!
+Hi there, I'm Rodrigo, I'm 24 years old. I was born and raised in La Pampa, Argentina
 
-Throughout my career, I've worked in low-level software development with C and Assembler and embedded systems with LPC1769 and PIC16F887. However, I've also worked with high-level software development using Java and C++, at the same time I've looked deeper into the nuances of software production such as software engineering, design and architecture patterns, software testing and requirements engineering.
+Throughout my career, I've worked in low-level software development with C, VHDL, Assembly, and embedded systems with LPC1769 and PIC16F887. However, I've also worked with high-level software development using Java and C++, at the same time I've looking deeper into the nuances of software production such as software engineering, design and architecture patterns, software testing and requirements engineering.
 
 - 🎓 Senior computer engineering student @ FCEFyN, UNC
 - 🏠 Córdoba capital @ Argentina
@@ -53,5 +53,8 @@ Throughout my career, I've worked in low-level software development with C and A
 - Spring and Hibernate (Java's frameworks).
 - AWS (EC2 and RDS for backend, S3 and cloudfront for frontend, Route 53 for DNS).
 - Jenkins (CI/CD).
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rodrigov1&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_current_streak=true)](https://git.io/streak-stats)
+![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigov1&theme=tokyonight&hide_border=true)
 
   <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigov1)](https://github.com/anuraghazra/github-readme-stats) -->
