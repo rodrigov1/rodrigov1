@@ -1,17 +1,3 @@
-<!--
-**rodrigov1/rodrigov1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5kMTg3Z2p3cXZ6d2RjaTh5eGV2M3k1dm1oY2N0MWl6MWl0dmsyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" width="200">
     <div id="badges">
@@ -34,7 +20,7 @@ Here are some ideas to get you started:
 
 Hi there, I'm Rodrigo!
 
-I'm a senior computer engineering student, throghout my career I've been working both in low-level software development with C and Assembler (LPC1769 / PIC16F887) as well as high-level development with Java and C++.
+Throughout my career, I've worked in low-level software development with C and Assembler and embedded systems with LPC1769 and PIC16F887. However, I've also worked with high-level software development using Java and C++, at the same time I've looked deeper into the nuances of software production such as software engineering, design and architecture patterns, software testing and requirements engineering.
 
 - 🎓 Senior computer engineering student @ FCEFyN, UNC
 - 🏠 Córdoba capital @ Argentina
@@ -44,16 +30,16 @@ I'm a senior computer engineering student, throghout my career I've been working
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="Neovim" alt="Neovim" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="Jira" title="Jira" width="40" height="40"/>
 </div>
 
 ### Things i'm working on 🚧
@@ -62,4 +48,10 @@ I'm a senior computer engineering student, throghout my career I've been working
 - Choosing the subject for my thesis.
 - Pronostiquito Full-Stack project
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigov1)](https://github.com/anuraghazra/github-readme-stats)
+### Things i'm learning right now🔧
+
+- Spring and Hibernate (Java's frameworks).
+- AWS (EC2 and RDS for backend, S3 and cloudfront for frontend, Route 53 for DNS).
+- Jenkins (CI/CD).
+
+  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigov1)](https://github.com/anuraghazra/github-readme-stats) -->
