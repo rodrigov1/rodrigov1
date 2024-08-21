@@ -40,18 +40,19 @@ Throughout my career, I've worked in low-level software development with C, VHDL
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="Jira" title="Jira" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/>
 </div>
 
 ### Things i'm working on 🚧
 
 - Getting my degree in computer engineering at @FCEFyN, UNC.
 - Choosing the subject for my thesis.
-- Pronostiquito Full-Stack project
 
 ### Things i'm learning right now🔧
 
-- Spring and Hibernate (Java's frameworks).
-- AWS (EC2 and RDS for backend, S3 and cloudfront for frontend, Route 53 for DNS).
+- Functional programming with Haskell.
+- Networking (CCNA)
+- Docker
 - Jenkins (CI/CD).
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rodrigov1&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_current_streak=true)](https://git.io/streak-stats)
